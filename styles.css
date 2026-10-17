@@ -9,7 +9,7 @@ main{
     border: 1px solid black;
     margin: 20px;
 }
-p{
+.author{
     text-align: right;
 	font-style:italic;
 }
